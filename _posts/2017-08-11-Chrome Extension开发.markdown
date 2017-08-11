@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      "开发ChromeExtension"
+subtitle:   " \"开发ChromeExtension\""
+date:       2017.8.11.19.18
+author:     "gorky"
+header-img: ""
+catalog: true
+tags:
+    - 前端
+---
+
 # 开发ChromeExtension
 
 ## Chrome Extension用什么语言开发的？
